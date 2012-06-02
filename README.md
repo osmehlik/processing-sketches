@@ -28,7 +28,7 @@ Contents
      * **KochCurve** -  [Wikipedia](http://en.wikipedia.org/wiki/L-system#Example_4:_Koch_curve)
      * **KochSnowFlake**
  * **Other**
-     * **AsProceduralAsPossible** - CD cover for album of algorithmically generated music [As Procedural As Possible](http://soundcloud.com/myownclone/sets/as-procedural-as-possible-2/) of a buddy MyOwnClone.
+     * **AsProceduralAsPossible** - CD cover for album of algorithmically generated music [As Procedural As Possible](http://soundcloud.com/myownclone/sets/as-procedural-as-possible-2/) of my buddy MyOwnClone (his [GitHub](https://github.com/MyOwnClone), [BitBucket](https://bitbucket.org/MyOwnClone)).
 
 Screenshots
 -----------
@@ -38,7 +38,7 @@ Screenshots
 ![Elementary Cellular Automata](https://github.com/oold/processing-sketches/raw/master/Screens/ElementaryCellularAutomata.png)
 ![Life](https://github.com/oold/processing-sketches/raw/master/Screens/Life.png)
 ![Dragon Curve](https://github.com/oold/processing-sketches/raw/master/Screens/DragonCurve.png)
-![Dragon Curve](https://github.com/oold/processing-sketches/raw/master/Screens/KochCurve.png)
+![Koch Curve](https://github.com/oold/processing-sketches/raw/master/Screens/KochCurve.png)
 ![KochSnowFlake](https://github.com/oold/processing-sketches/raw/master/Screens/KochSnowFlake.png)
 
 
