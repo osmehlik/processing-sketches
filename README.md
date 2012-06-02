@@ -33,13 +33,13 @@ Contents
 Screenshots
 -----------
 
-![As Procedural As Possible Album Cover](Screens/AsProceduralAsPossible.png)
-![Fractal Plant](Screens/FractalPlant.png)
-![Elementary Cellular Automata](Screens/ElementaryCellularAutomata.png)
-![Life](Screens/Life.png)
-![Dragon Curve](Screens/DragonCurve.png)
-![Dragon Curve](Screens/KochCurve.png)
-![KochSnowFlake](Screens/KochSnowFlake.png)
+![As Procedural As Possible Album Cover](https://github.com/oold/processing-sketches/raw/master/Screens/AsProceduralAsPossible.png)
+![Fractal Plant](https://github.com/oold/processing-sketches/raw/master/Screens/FractalPlant.png)
+![Elementary Cellular Automata](https://github.com/oold/processing-sketches/raw/master/Screens/ElementaryCellularAutomata.png)
+![Life](https://github.com/oold/processing-sketches/raw/master/Screens/Life.png)
+![Dragon Curve](https://github.com/oold/processing-sketches/raw/master/Screens/DragonCurve.png)
+![Dragon Curve](https://github.com/oold/processing-sketches/raw/master/Screens/KochCurve.png)
+![KochSnowFlake](https://github.com/oold/processing-sketches/raw/master/Screens/KochSnowFlake.png)
 
 
 License
