@@ -1,5 +1,5 @@
 //
-// Koch curve L-System (http://en.wikipedia.org/wiki/L-system#Example_4:_Koch_curve)
+// As Procedural As Possible Album Cover
 //
 // Copyright (c) 2012, Oldrich Smehlik <oldrich@smehlik.net>
 // All rights reserved.
@@ -26,43 +26,62 @@
 // THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 //
 
-int steplength = 16;
+int WINDOW_SIZE = 512;
+int CELL_SIZE = 32;
+int CELL_COUNT = WINDOW_SIZE / CELL_SIZE;
+PFont font;
 
-void setup()
+void drawGrid()
 {
-    size(512,256);
-    noLoop();
-    background(#62016D);
-    stroke(#C861D3);
-}
+    for (int y = 0; y < CELL_COUNT; ++y) {
+        for (int x = 0; x < CELL_COUNT; ++x) {       
+            fill(random(2)>=1? #204a87 : #a40000);
 
-void draw() {
-    translate(width*9/10, height*9/10);
-    rotate(PI);
-    render("F", 3);
-}
-
-void render(String data, int n)
-{
-    data = getEvolved(data, n);
-    for (int i = 0; i < data.length(); ++i)
-    {
-        switch(data.charAt(i))
-        {
-            case 'F': line(0, 0, steplength, 0); translate(steplength, 0); break;
-            case '-': rotate(-HALF_PI); break;
-            case '+': rotate( HALF_PI); break;
+            arc(x * CELL_SIZE + (CELL_SIZE/2),
+                y * CELL_SIZE + (CELL_SIZE/2),
+                CELL_SIZE-2,
+                CELL_SIZE-2,
+                0, 2*PI);
         }
     }
 }
 
-String getEvolved(String s, int n)
+void drawToGrid(String txt, int x, int y)
 {
-    for (int i = 1; i <= n; i++)
-    {
-        s = s.replaceAll("F","F+F-F-F+F");
+    textAlign(CENTER,CENTER);
+    for (int i = 0; i < txt.length(); ++i) {
+       text(
+           txt.charAt(i),
+           (x * CELL_SIZE) + (i * CELL_SIZE) + (CELL_SIZE / 2),
+           (y * CELL_SIZE) + (CELL_SIZE / 2) - 2
+       );
     }
-    
-    return s;
 }
+
+
+void drawLogo()
+{
+    fill(255);
+    drawToGrid("DJ MyOwnClone",1,9);
+    drawToGrid("As Procedural", 1,11);
+    drawToGrid("As Possible",1,12);
+}
+
+void setup()
+{
+    size(512,512);
+    font = loadFont("Monospaced-28.vlw");
+    textFont(font,28);
+
+    background(33);
+    
+    smooth();
+    noStroke();
+    
+    drawGrid();
+    drawLogo();
+    
+    save("cover.png");
+}
+
 

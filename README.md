@@ -27,6 +27,20 @@ Contents
      [Wikipedia](http://en.wikipedia.org/wiki/L-system#Example_8:_Fractal_plant)
      * **KochCurve** -  [Wikipedia](http://en.wikipedia.org/wiki/L-system#Example_4:_Koch_curve)
      * **KochSnowFlake**
+ * **Other**
+     * **AsProceduralAsPossible** - CD cover for album of algorithmically generated music [As Procedural As Possible](http://soundcloud.com/myownclone/sets/as-procedural-as-possible-2/) of a buddy MyOwnClone.
+
+Screenshots
+-----------
+
+![As Procedural As Possible Album Cover](Screens/AsProceduralAsPossible.png)
+![Fractal Plant](Screens/FractalPlant.png)
+![Elementary Cellular Automata](Screens/ElementaryCellularAutomata.png)
+![Life](Screens/Life.png)
+![Dragon Curve](Screens/DragonCurve.png)
+![Dragon Curve](Screens/KochCurve.png)
+![KochSnowFlake](Screens/KochSnowFlake.png)
+
 
 License
 -------
