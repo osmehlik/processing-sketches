@@ -18,7 +18,7 @@ Contents
        by Stephen Wolfram in his book A new kind of science
        (state of cell in next iteration depends on state of cell and its
        left and right neighbour in current iteration,
-       thus we have 2^3 = 256 of them).
+       thus we have 256 of elementary CAs).
      * **Game Of Life**
  * **L-Systems**
      * **DragonCurve** -
