@@ -15,7 +15,7 @@ Contents
  * **Cellular Automata**
      * **Elementary Cellular Automata** - 
        One dimensional elementary cellular automata, as described
-       by Stephen Wolfram in his book A new kind of science
+       by Stephen Wolfram in his book [A new kind of science](http://www.wolframscience.com/nksonline/)
        (state of cell in next iteration depends on state of cell and its
        left and right neighbour in current iteration,
        thus we have 256 of elementary CAs).
@@ -33,13 +33,13 @@ Contents
 Screenshots
 -----------
 
-![As Procedural As Possible Album Cover](https://github.com/oold/processing-sketches/raw/master/Screens/AsProceduralAsPossible.png)
-![Fractal Plant](https://github.com/oold/processing-sketches/raw/master/Screens/FractalPlant.png)
-![Elementary Cellular Automata](https://github.com/oold/processing-sketches/raw/master/Screens/ElementaryCellularAutomata.png)
-![Life](https://github.com/oold/processing-sketches/raw/master/Screens/Life.png)
-![Dragon Curve](https://github.com/oold/processing-sketches/raw/master/Screens/DragonCurve.png)
-![Koch Curve](https://github.com/oold/processing-sketches/raw/master/Screens/KochCurve.png)
-![KochSnowFlake](https://github.com/oold/processing-sketches/raw/master/Screens/KochSnowFlake.png)
+![As Procedural As Possible Album Cover](https://github.com/osmehlik/processing-sketches/raw/master/Screens/AsProceduralAsPossible.png)
+![Fractal Plant](https://github.com/osmehlik/processing-sketches/raw/master/Screens/FractalPlant.png)
+![Elementary Cellular Automata](https://github.com/osmehlik/processing-sketches/raw/master/Screens/ElementaryCellularAutomata.png)
+![Life](https://github.com/osmehlik/processing-sketches/raw/master/Screens/Life.png)
+![Dragon Curve](https://github.com/osmehlik/processing-sketches/raw/master/Screens/DragonCurve.png)
+![Koch Curve](https://github.com/osmehlik/processing-sketches/raw/master/Screens/KochCurve.png)
+![KochSnowFlake](https://github.com/osmehlik/processing-sketches/raw/master/Screens/KochSnowFlake.png)
 
 
 License
