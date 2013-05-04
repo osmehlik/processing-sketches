@@ -12,6 +12,8 @@ I do not expect you to appreciate that. :)
 Contents
 --------
 
+ * **Audio**
+     * **Piano** - Electronic piano.
  * **Cellular Automata**
      * **Elementary Cellular Automata** - 
        One dimensional elementary cellular automata, as described
@@ -33,6 +35,7 @@ Contents
 Screenshots
 -----------
 
+![Piano](https://github.com/osmehlik/processing-sketches/raw/master/Screens/Piano.png)
 ![As Procedural As Possible Album Cover](https://github.com/osmehlik/processing-sketches/raw/master/Screens/AsProceduralAsPossible.png)
 ![Fractal Plant](https://github.com/osmehlik/processing-sketches/raw/master/Screens/FractalPlant.png)
 ![Elementary Cellular Automata](https://github.com/osmehlik/processing-sketches/raw/master/Screens/ElementaryCellularAutomata.png)
