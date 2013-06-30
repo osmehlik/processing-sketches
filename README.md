@@ -35,6 +35,7 @@ Contents
 Screenshots
 -----------
 
+![MazeViewer](https://github.com/osmehlik/processing-sketches/raw/master/Screens/MazeViewer.png)
 ![Piano](https://github.com/osmehlik/processing-sketches/raw/master/Screens/Piano.png)
 ![As Procedural As Possible Album Cover](https://github.com/osmehlik/processing-sketches/raw/master/Screens/AsProceduralAsPossible.png)
 ![Fractal Plant](https://github.com/osmehlik/processing-sketches/raw/master/Screens/FractalPlant.png)
