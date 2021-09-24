@@ -46,7 +46,7 @@ License
 
 Everything inside this directory is licensed under a
 very permissive 2-clause BSD license.
-(Detailed text of license is at the beginning of each *.pde file.)
+(Detailed text of license is in LICENSE file.)
 
 Contact
 -------
