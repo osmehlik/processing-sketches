@@ -6,8 +6,7 @@ My sketches for [Processing](http://processing.org) programming language.
 
 There are some sketches in Processing Examples,
 which do the same thing, but I created my own slightly fancier version,
-just for fun.
-I do not expect you to appreciate that. :)
+just for fun. :)
 
 Contents
 --------
